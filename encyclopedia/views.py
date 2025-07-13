@@ -61,7 +61,7 @@ def new_page(request):
             })
         else:
             util.save_entry(title, content)
-            convert_entry = convert_to_html(content)
+            convert_entry = convert_to_html(title)
             return render(request, "encyclopedia/entry.html", {
                 "title": title,
                 "content": convert_entry
