@@ -14,4 +14,4 @@ and edit pages, and search for pages by title or content.
 
 Here is a video of the application in action:
 
-[![Wiki Video](https://img.youtube.com/vi/3-5o5jX4-8k/0.jpg)](https://www.youtube.com/watch?v=3-5o5jX4-8k)
+[Wiki Video](https://www.youtube.com/watch?v=7mhotQcmxWE)
